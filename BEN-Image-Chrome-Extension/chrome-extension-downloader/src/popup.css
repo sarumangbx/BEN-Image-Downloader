@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 350px;
+    padding: 10px;
+}
+h2 {
+    margin-top: 0;
+}
+#status {
+    margin: 10px 0;
+    color: #0074d9;
+}
+#image-list {
+    max-height: 150px;
+    overflow-y: auto;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+button {
+    margin: 5px 0;
+    padding: 6px 12px;
+    font-size: 14px;
+}
